@@ -8,6 +8,7 @@ Meu nome é Jorge Trindade, trabalho há mais de 12 anos com infraestrutura de T
 # 🌐 Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@tecpingu3166) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/tecpingu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jogilinux) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jogilinux/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jogilinux) 
 
+# 🚀 Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilinux&hide=java&layout=compact&theme=dark)![Github Stats](https://github-readme-stats.vercel.app/api?username=jogilinux&theme=cobalt&show_icons=true) 
 
 
