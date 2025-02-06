@@ -12,4 +12,5 @@ Meu nome é Jorge Trindade, trabalho há mais de 12 anos com infraestrutura de T
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilinux&hide=java&layout=compact&theme=dark)![Github Stats](https://github-readme-stats.vercel.app/api?username=jogilinux&theme=cobalt&show_icons=true) 
 
 
-> “Transmita o que aprendeu. Força, mestria. Mas fraqueza, insensatez, fracasso também. Sim, fracasso acima de tudo. O maior professor, o fracasso é. Luke, nós somos o que eles crescem além. Esse é o verdadeiro fardo de todos os mestres.” — Yoda
+> “Transmita o que aprendeu. Força, mestria. Mas fraqueza, insensatez, fracasso também. Sim, fracasso acima de tudo. O maior professor, o fracasso é. Luke, nós somos o que eles crescem além. Esse é o verdadeiro fardo de todos os mestres.” 
+— Yoda
