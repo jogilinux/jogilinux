@@ -25,21 +25,6 @@ Meu nome é Jorge Trindade, trabalho há mais de 12 anos com infraestrutura de T
 > “Transmita o que aprendeu. Força, mestria. Mas fraqueza, insensatez, fracasso também. Sim, fracasso acima de tudo. O maior professor, o fracasso é. Luke, nós somos o que eles crescem além. Esse é o verdadeiro fardo de todos os mestres.” 
 — Yoda
 
-<detailso open>
-    <summary>Profile visitors</summary>
-    <p align="center">:round_pushpin: Profile visitors</p>
-    <div align="center">
-        <img alt="visitors counter" src="https://profile-counter.glitch.me/thenaserov/count.svg">
-    </div>
-</details>
-
-
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
-</div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
